@@ -16,7 +16,7 @@
     "mailin": "^3.0.3",
     "redis": "^2.6.0-2",
     "snazzy": "^7.0.0",
-    "standard": "^10.0.3"
+    "standard": "^13.0.0"
   },
   "license": "Proprietary (c) Igor Korsakov 2016"
 }
